@@ -8,5 +8,6 @@ namespace Minhpt
 {
     class Class2
     {
+		//dsadasd
     }
 }
