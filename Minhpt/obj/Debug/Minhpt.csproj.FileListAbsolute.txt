@@ -1,1 +1,2 @@
 D:\Downloads\Documents\GitHub\Minhpt\Minhpt\bin\Debug\Minhpt.exe.config
+D:\GitHub\Minhpt\Minhpt\bin\Debug\Minhpt.exe.config
