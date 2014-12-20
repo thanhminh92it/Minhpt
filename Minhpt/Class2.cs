@@ -8,5 +8,9 @@ namespace Minhpt
 {
     class Class2
     {
+<<<<<<< HEAD
+=======
+		//dsadasd
+>>>>>>> minhpt
     }
 }
